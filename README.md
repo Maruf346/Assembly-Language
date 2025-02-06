@@ -25,8 +25,8 @@ git clone https://github.com/your-username/assembly-language.git
 
 📬 Contact
 
-Author: Maruf Hossain
-Dept. of CSE
-Green University of Bangladesh
-mail: maruf.bshs@gmail.com
+Author: Maruf Hossain.   
+Dept. of CSE.   
+Green University of Bangladesh.   
+mail: maruf.bshs@gmail.com   
 Feel free to reach out if you have questions or suggestions! 
